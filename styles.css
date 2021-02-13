@@ -1,11 +1,11 @@
 body {
-text-align: left;
+text-align: center;
 margin: 0px;
 font-family: Trebuchet MS;
-
+background-color: #54387a
 }
 
 p { 
-  background-color: red;
+  background-color: #b0f5ed;
   padding: 25px;
 }
