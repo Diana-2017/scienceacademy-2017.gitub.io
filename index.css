@@ -4,3 +4,7 @@ margin: 0px;
 font-family: Trebuchet MS;
 backgroundcolor: red;
 }
+
+p { 
+  backgroundcolor: red;
+}
